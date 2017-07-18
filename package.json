@@ -1,0 +1,11 @@
+{
+  "name": "angular_webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anryzhang/angular_webpack.git",
+  "author": "ruizhang <zhang.rui@yuejian.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
+}
